@@ -1,0 +1,8 @@
+ports:
+  http: 3000 # HTTP port for redirects or non-TLS serving
+
+dats:
+  # Your dat archives (here 3 exemples)
+  - url: dat://31f852450f22d5b485eac4eb892df0cd148aa7b997894d2f82a53a231ff02faa/
+  - url: dat://bcc953c1dbc546f0e982080d3728b860178aafd01f928ecd19fec243a2502a41/
+  - url: dat://4bc0f0dc1ae9041da77d00e5cdcc5ee5be435a9fb035161a13f4c1123ecc7a73/
