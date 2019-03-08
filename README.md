@@ -32,4 +32,4 @@ modify `~/.config/lxsession/LXDE-pi/autostart` following [this step1](https://ww
 # References
 - [wiringPi](http://wiringpi.com/)
 - [homebase](https://github.com/beakerbrowser/homebase)
-- [Vogelhaus documentation page (dat)](dat://d0cdd1916150c0e9a6b6b1c66df16a2c5808c1135952d7bed925c4146eff7744/)
+- Vogelhaus documentation page dat://d0cdd1916150c0e9a6b6b1c66df16a2c5808c1135952d7bed925c4146eff7744/
